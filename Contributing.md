@@ -1,8 +1,3 @@
----
-layout: page
-title: Contribute
-permalink: /contribute/
----
 This site is for the collaborative development of the Federal Identity, Credential and Access Management segment architecture. The content is supporting the creation of Version 3.0 (and future revisions) of the [FICAM Roadmap and Implementation Guidance v2.0](https://www.idmanagement.gov/IDM/servlet/fileField?entityId=ka0t0000000TNNBAA4&field=File__Body__s), Sections 1, 2, 3 and 4.
 
 #### How to Contribute
@@ -41,5 +36,3 @@ Contributors should consider the audience when submitting content. Plain languag
 ####  Thanks
 
 The idea for providing this content as open source, the contributing framework, and the licensing framework are based on work from [18F](https://18f.gsa.gov).
-
-

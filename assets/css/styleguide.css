@@ -2391,7 +2391,6 @@ fieldset {
 
 .nav-children {
    display: block;
-   max-height: 1000px;
    padding: 0 0 0 2.8rem;
    margin:0;
    opacity: 1;

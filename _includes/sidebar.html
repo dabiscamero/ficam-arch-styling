@@ -9,7 +9,7 @@
             <a href="{% if link.internal == true %}{{ site.baseurl }}/{% endif %}{{ link.url }}" title="{{ link.text }}">{{ link.text }}</a>
           
           {% if link.coll == true %}
-				  <button class="expand-subnav"
+				  <button class="usa-sidenav-expand_subnav"
                   aria-expanded="{% if page.collection == link.collname %}true{% else %}false{% endif %}"
                   aria-controls="nav-collapsible-{{ forloop.index }}">+</button>
           

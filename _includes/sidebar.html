@@ -14,7 +14,7 @@
                   aria-controls="nav-collapsible-{{ forloop.index }}">+</button>
           
           {% assign collectionName = link.collname %}
-          <ul class="nav-children" id="nav-collapsible-{{ forloop.index }}" aria-hidden="{% if page.collection == link.collname %}false{% else %}true{% endif %}">
+          <ul class="nav-children usa-current-section" id="nav-collapsible-{{ forloop.index }}" aria-hidden="{% if page.collection == link.collname %}false{% else %}true{% endif %}">
       
           {% for child in site.[collectionName] %}
           <li class="group {% if page.title == child.title %}usa-current{% endif %}">

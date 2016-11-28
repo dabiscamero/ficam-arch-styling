@@ -2264,7 +2264,7 @@ fieldset {
 
 .usa-sidenav-list li button {
    padding:0;
-   margin: 4px 0 0 215px;
+   margin: 4px 0 0 0;
 }
 
 .usa-sidenav-list li:before {
@@ -2286,11 +2286,10 @@ fieldset {
 .usa-sidenav-list a {
    border: none;
    color: #212121;
-   display: block;
+   float: left;
    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
    line-height: 1;
    padding: 1rem 1rem 1rem 1.8rem;
-   width:100%;
 }
 
 .usa-sidenav-list a:hover {
@@ -2360,7 +2359,7 @@ fieldset {
     height: 30px;
     line-height: 1;
     margin: 0;
-    position: absolute;
+   float:right;
     width: 30px;
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -2399,7 +2398,6 @@ fieldset {
     -o-transition: max-height .2s, opacity .2s;
     transition: max-height .2s, opacity .2s;
 }
-	
 	
 .skipnav {
   -webkit-transition: all 0.2s ease-in-out;

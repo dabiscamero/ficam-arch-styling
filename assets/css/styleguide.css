@@ -2264,7 +2264,7 @@ fieldset {
 
 .usa-sidenav-list li button {
    padding:0;
-   margin: 4px 0 0 0;
+   margin: 4px 0 0 215px;
 }
 
 .usa-sidenav-list li:before {
@@ -2356,12 +2356,11 @@ fieldset {
     color: #0072ce;
     cursor: pointer;
     display: block;
-    float: right;
     font-size: 20px;
     height: 30px;
     line-height: 1;
     margin: 0;
-    position: relative;
+    position: absolute;
     width: 30px;
     -webkit-appearance: none;
     -moz-appearance: none;

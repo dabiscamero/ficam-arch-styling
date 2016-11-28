@@ -42,7 +42,7 @@ function accordion($el) {
 }
 
 $(function() {
-  $('.sidebar-nav').each(function() {
+  $('.sidenav').each(function() {
     accordion($(this));
   });
 });

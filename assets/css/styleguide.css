@@ -2257,6 +2257,8 @@ fieldset {
 .usa-sidenav-list li {
     display: list-item;
     margin: 0;
+    font-size: 1.7rem;
+    border-bottom: 1px solid #babbbd;
 }
 
 .usa-sidenav-list li:before {
@@ -2267,10 +2269,6 @@ fieldset {
    display: none;
 }
 
-.usa-sidenav-list li {
-    border-top: 1px solid #5b616b;
-    font-size: 1.7rem;
-}
 .usa-sidenav-list .usa-current-section {
    background-color:#e2f3f8;
 }

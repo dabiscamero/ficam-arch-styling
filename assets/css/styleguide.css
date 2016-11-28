@@ -2280,12 +2280,13 @@ fieldset {
 }
   
 .usa-sidenav-list a {
-    border: none;
-    color: #212121;
-    display: block;
-    font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
-    line-height: 1;
-    padding: 1rem 1rem 1rem 1.8rem;
+   border: none;
+   color: #212121;
+   display: block;
+   float:left;
+   font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+   line-height: 1;
+   padding: 1rem 1rem 1rem 1.8rem;
 }
 
 .usa-sidenav-list a:hover {

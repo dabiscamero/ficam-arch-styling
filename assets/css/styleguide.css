@@ -2316,7 +2316,8 @@ fieldset {
 
 .usa-sidenav-expand_subnav {
     background: none;
-    border: none;
+    border: none; 
+    border-radius: 30px;
     color: #0072ce;
     cursor: pointer;
     display: block;
@@ -2389,6 +2390,19 @@ fieldset {
     outline: 0;
     position: absolute;
     top: 0; 
+}
+
+.group:before,
+.group:after {
+    content: " ";
+}
+
+.group:after {
+   clear: both;
+}
+
+.group {
+   *zoom: 1;
 }
 
 

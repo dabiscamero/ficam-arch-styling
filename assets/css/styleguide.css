@@ -2255,7 +2255,6 @@ fieldset {
 }
 
 .usa-sidenav-list li {
-    display: list-item;
     margin: 0;
     font-size: 1.7rem;
     border-bottom: 1px solid #babbbd;

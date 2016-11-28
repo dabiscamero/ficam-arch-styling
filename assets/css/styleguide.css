@@ -2254,7 +2254,7 @@ fieldset {
    padding: 0;
 }
 
-.usa-sidenav-list ul li {
+.usa-sidenav-list .group ul li {
    display: table;
    width: 100%;
 }

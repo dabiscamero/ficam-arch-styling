@@ -2390,15 +2390,21 @@ fieldset {
 }
 
 .nav-children {
-    display: block;
-    max-height: 1000px;
-    opacity: 1;
-    -webkit-transition: max-height .2s, opacity .2s;
-    -moz-transition: max-height .2s, opacity .2s;
-    -o-transition: max-height .2s, opacity .2s;
-    transition: max-height .2s, opacity .2s;
+   display: block;
+   max-height: 1000px;
+   padding: 0 0 0 2.8rem;
+   margin:0;
+   opacity: 1;
+   -webkit-transition: max-height .2s, opacity .2s;
+   -moz-transition: max-height .2s, opacity .2s;
+   -o-transition: max-height .2s, opacity .2s;
+   transition: max-height .2s, opacity .2s;
 }
 	
+.nav-children li {
+   border:none;
+}
+
 .skipnav {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;

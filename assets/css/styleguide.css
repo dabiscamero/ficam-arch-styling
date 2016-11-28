@@ -2294,9 +2294,13 @@ fieldset {
 }
 
 .usa-sidenav-list a:hover {
-   background-color: #f1f1f1;
    color: #0071bc;
-   text-decoration: none; }
+   text-decoration: none;
+} 
+
+.usa-sidenav-list li:hover {
+   background-color: #f1f1f1;
+}
 
 .usa-sidenav-list a:focus {
    position: relative;

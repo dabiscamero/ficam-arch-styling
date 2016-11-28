@@ -2254,6 +2254,16 @@ fieldset {
    padding: 0;
 }
 
+.usa-sidenav-list ul li {
+   display: table;
+   width: 100%;
+}
+
+.usa-sidenav-list ul li button {
+   padding: 0;
+   margin: 0;
+}
+
 .usa-sidenav-list li {
     margin: 0;
     font-size: 1.7rem;

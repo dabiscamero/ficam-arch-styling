@@ -2254,20 +2254,17 @@ fieldset {
    padding: 0;
 }
 
-.usa-sidenav-list .group ul li {
-   display: table;
-   width: 100%;
-}
-
-.usa-sidenav-list ul li button {
-   padding: 0;
-   margin: 0;
-}
-
 .usa-sidenav-list li {
-    margin: 0;
-    font-size: 1.7rem;
-    border-bottom: 1px solid #babbbd;
+   display:table;
+   width:100%;
+   margin: 0;
+   font-size: 1.7rem;
+   border-bottom: 1px solid #babbbd;
+}
+
+.usa-sidenav-list li button {
+   padding:0;
+   margin:0;
 }
 
 .usa-sidenav-list li:before {

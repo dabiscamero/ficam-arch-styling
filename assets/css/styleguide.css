@@ -2404,6 +2404,10 @@ fieldset {
    border:none;
 }
 
+.nav-children .usa-current {
+   background-color: #d0d0d0;
+}
+
 .skipnav {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;

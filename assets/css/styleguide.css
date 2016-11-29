@@ -2814,8 +2814,10 @@ fieldset {
     visibility: visible; }
 
 .sidenav {
-  position: fixed;
-  top: 9.5rem;
+ /* position: fixed; */
+	position:relative;
+ /* top: 9.5rem;*/
+	top: 11rem;
   bottom: 0;
   left: 0;
   width: 250px;

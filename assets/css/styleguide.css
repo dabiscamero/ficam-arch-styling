@@ -2349,7 +2349,7 @@ fieldset {
    background: none;
    border: none; 
    border-radius: 30px;
-   color: #0072ce;
+   color: #323a45;
    cursor: pointer;
    font-size: 20px;
    height: 30px;
@@ -2370,7 +2370,7 @@ fieldset {
 
 .usa-sidenav-expand_subnav:hover,
 .usa-sidenav-expand_subnav:focus {
-    background-color: #0072ce;
+    background-color: #323a45;
     color: #fff;
     outline: none;
 }

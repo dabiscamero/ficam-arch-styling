@@ -2797,7 +2797,7 @@ fieldset {
 
 }
 
-/*.overlay {
+.overlay {
    position: fixed;
    top: 0;
    right: 0;
@@ -2813,7 +2813,7 @@ fieldset {
 }
 .overlay.is-visible {
    visibility: visible; 
-}*/
+}
 
 .sidenav {
   position: fixed; 

@@ -346,6 +346,33 @@ textarea {
 optgroup {
   font-weight: bold; }
 
+/* Tables
+   ========================================================================== */
+/**
+ * Remove most spacing between table cells.
+ */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+td,
+th {
+  padding: 0; }
+
+html {
+  box-sizing: border-box; }
+
+*, *:before, *:after {
+  box-sizing: inherit; }
+
+body {
+  background-color: #ffffff; }
+
+.lt-ie9 * {
+  filter: none !important; }
+
+[aria-hidden=true] {
+  display: none !important; }
 
 .usa-grid,
 .usa-grid-full {

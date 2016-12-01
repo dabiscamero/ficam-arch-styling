@@ -18,6 +18,7 @@ In 2015, members of the Federal ICAM Community participated in a Tiger Team unde
 *  Updates should address the need for greater efficiencies, cost savings, and shared infrastructure
 *  Elements should align with the [Common Approach to Federal Enterprise Architecture for government-wide consistency](https://www.whitehouse.gov/omb/e-gov/FEA)
 
+{% include success.html content="Access the [SHA-1 Federal Root Certification Authority Artifacts](../crls/#sha-1-federal-root-certificate-authority-sha1-frca) or [Policies](../#where-can-i-find-the-policies-and-standards)." %}
 
 ### The Move to Online Collaboration
 

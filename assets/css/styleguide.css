@@ -366,24 +366,6 @@ th {
   src: url("../uswds-0.9.1/fonts/sourcesanspro-light-webfont.ttf") format("truetype");
 }
 @font-face {
-  font-family: "Source Sans Pro";
-  font-style: normal;
-  font-weight: 400;
-  src: url("../uswds-0.9.1/fonts/sourcesanspro-regular-webfont.ttf") format("truetype");
-}
-@font-face {
-  font-family: "Source Sans Pro";
-  font-style: italic;
-  font-weight: 400;
-  src: url("../uswds-0.9.1/fonts/sourcesanspro-italic-webfont.ttf") format("truetype");
-  }
-@font-face {
-  font-family: "Source Sans Pro";
-  font-style: normal;
-  font-weight: 700;
-  src: url("../uswds-0.9.1/fonts/sourcesanspro-bold-webfont.ttf") format("truetype");
-}
-@font-face {
   font-family: "Merriweather";
   font-style: normal;
   font-weight: 300;

@@ -357,28 +357,9 @@ table {
 
 td,
 th {
-  padding: 0; }
+  padding: 0;
+}
 
-@font-face {
-  font-family: "Merriweather";
-  font-style: normal;
-  font-weight: 300;
-  src: url("../uswds-0.9.1/fonts/merriweather-light-webfont.eot?#iefix") format("embedded-opentype"), url("../uswds-0.9.1/fonts/merriweather-light-webfont.woff2") format("woff2"), url("../uswds-0.9.1/fonts/merriweather-light-webfont.woff") format("woff"), url("../uswds-0.9.1/fonts/merriweather-light-webfont.ttf") format("truetype"); }
-@font-face {
-  font-family: "Merriweather";
-  font-style: normal;
-  font-weight: 400;
-  src: url("../uswds-0.9.1/fonts/merriweather-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../uswds-0.9.1/fonts/merriweather-regular-webfont.woff2") format("woff2"), url("../uswds-0.9.1/fonts/merriweather-regular-webfont.woff") format("woff"), url("../uswds-0.9.1/fonts/merriweather-regular-webfont.ttf") format("truetype"); }
-@font-face {
-  font-family: "Merriweather";
-  font-style: italic;
-  font-weight: 400;
-  src: url("../uswds-0.9.1/fonts/merriweather-italic-webfont.eot?#iefix") format("embedded-opentype"), url("../uswds-0.9.1/fonts/merriweather-italic-webfont.woff2") format("woff2"), url("../uswds-0.9.1/fonts/merriweather-italic-webfont.woff") format("woff"), url("../uswds-0.9.1/fonts/merriweather-italic-webfont.ttf") format("truetype"); }
-@font-face {
-  font-family: "Merriweather";
-  font-style: normal;
-  font-weight: 700;
-  src: url("../uswds-0.9.1/fonts/merriweather-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../uswds-0.9.1/fonts/merriweather-bold-webfont.woff2") format("woff2"), url("../uswds-0.9.1/fonts/merriweather-bold-webfont.woff") format("woff"), url("../uswds-0.9.1/fonts/merriweather-bold-webfont.ttf") format("truetype"); }
 /* Apply a natural box layout model to all elements, but allowing components to 
 change */
 html {
@@ -1597,7 +1578,7 @@ a {
 
 h1, h2, h3, h4, h5, h6 {
   clear: both;
-  font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif;
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
   /*line-height: 1.3;*/
   margin-bottom: .5em;
   /*margin-top: 1em;*/
@@ -1650,7 +1631,7 @@ p a,
   font-family: "Calibri", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; }
 
 .usa-serif p, .usa-serif a, .usa-serif li, .usa-serif span {
-  font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif; 
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif; 
   font-weight:300;
 }
 
@@ -1672,7 +1653,7 @@ p a,
       font-weight: 700; } }
 
 .usa-font-lead {
-  font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif;
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
   font-size: 2rem;
   line-height: 1.7; }
 
@@ -3347,7 +3328,7 @@ code[class*="language-"], pre[class*="language-"] {
   font-size: 1.7rem;
   font-weight: 400; }
 .serif-robust.serif-body .usa-font-example p {
-  font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif;
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
   font-size: 1.5rem;
   line-height: 1.7; }
 .serif-robust.serif-body .usa-font-example .usa-font-lead {
@@ -3381,7 +3362,7 @@ code[class*="language-"], pre[class*="language-"] {
   font-weight: 300;
   line-height: 1.5; }
 .sans-style.serif-body .usa-font-example p {
-  font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman", "Times", serif;
+  font-family: "Cambria", "Georgia", "Times New Roman", "Times", serif;
   font-size: 1.5rem;
   line-height: 1.7; }
 .sans-style.serif-body .usa-font-example .usa-font-lead {

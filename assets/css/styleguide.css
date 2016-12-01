@@ -361,9 +361,7 @@ th {
 
 @font-face {
   font-family: "Source Sans Pro";
-  font-style: normal;
-  font-weight: 300;
-  src: url("../uswds-0.9.1/fonts/sourcesanspro-light-webfont.ttf") format("truetype");
+  src: url("../uswds-0.9.1/fonts/sourcesanspro-light-webfont.ttf");
 }
 @font-face {
   font-family: "Merriweather";

@@ -1796,8 +1796,8 @@ p a,
 
 .usa-alert-success {
   background-color: #e7f4e4;
-  background-image: url("../../img/alerts/success.png");
-  background-image: url("../../img/alerts/success.svg"); }
+  background-image: url("../img/alerts/success.png");
+  background-image: url("../img/alerts/success.svg"); }
 
 .usa-alert-warning {
   background-color: #fff1d2;

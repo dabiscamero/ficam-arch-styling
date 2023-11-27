@@ -9,8 +9,8 @@ Once this digital identity record is established, it may be pushed to other syst
 
 ---
 
-![Actors and Systems Key for Images](../../img/usecases/ilabel.png){:align="right"}
-![Actors and Systems Key for Images](../../img/usecases/createidkey.png)
+![Actors and Systems Key for Images](/img/usecases/ilabel.png){:align="right"}
+![Actors and Systems Key for Images](/img/usecases/createidkey.png)
 
 **Pre-condition:** Identity information on the individual has been collected.
 

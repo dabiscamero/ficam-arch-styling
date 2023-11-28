@@ -4,7 +4,7 @@ title: Identity Management
 collection: services
 permalink: services/identity/
 ---
-![Identity Service Diagram - Overview of diagram follows in text below.]({{site.baseurl}}../img/Identity.png){:align="right"}
+![Identity Service Diagram - Overview of diagram follows in text below.](/img/Identity.png){:align="right"}
 
 Identity Management is the set of practices that allow an
 organization to establish, maintain, and terminate identities.

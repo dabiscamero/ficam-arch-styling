@@ -4,7 +4,7 @@ title: Federation
 collection: services
 permalink: services/federation/
 ---
-![Federation Service Diagram - Overview of diagram follows in text below.]({{site.baseurl}}/img/Federation.png){:align="right"}
+![Federation Service Diagram - Overview of diagram follows in text below.](/img/Federation.png){:align="right"}
 
 Federation is the ability of one organization to accept another
 organization’s work. Federation is based on inter-organizational trust.
@@ -41,7 +41,7 @@ another.
 
 ### Federation Services
 The Federation services in the Federal ICAM architecture include Policy Administration, Entitlement Management, Provisioning, Authentication, and Authorization.
-![Federation Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/federation_services_detailed.png){:align="center"}
+![Federation Service Details Diagram - Service definitions follow in text below.](/img/federation_services_detailed.png){:align="center"}
 
 **Attribute Exchange**  
 

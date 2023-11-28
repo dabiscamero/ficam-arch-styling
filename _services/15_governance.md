@@ -4,7 +4,7 @@ title: Governance
 collection: services
 permalink: services/governance/
 ---
-![Governance Service Diagram - Overview of diagram follows in text below.]({{site.baseurl}}/img/Governance.png){:align="right"}
+![Governance Service Diagram - Overview of diagram follows in text below.](/img/Governance.png){:align="right"}
 
 Governance is the set of practices that allow organizations to administer and support the successful execution of the core ICAM services and functions. Governance, for the purpose of this services framework, does not refer to the governance or management of an entire enterprise but of those capabilities necessary to ensure successful ICAM operations. Governance functions enable organizations to make programmatic decisions, manage enterprise policies, and promote the efficiency of their ICAM program. 
 
@@ -17,7 +17,7 @@ If through this monitoring a problem or vulnerability within the program is iden
  
 ### Governance Services 
  The Governance services in the Federal ICAM architecture include Enterprise Governance, Auditing and Reporting, Redress, and Recovery.   
-![Governance Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/governance_services_detailed.png){:align="center"}
+![Governance Service Details Diagram - Service definitions follow in text below.](/img/governance_services_detailed.png){:align="center"}
 
 **Enterprise Governance**  
 

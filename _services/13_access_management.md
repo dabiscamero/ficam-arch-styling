@@ -4,7 +4,7 @@ title: Access Management
 collection: services
 permalink: services/access/
 ---
-![Access Service Diagram - Overview of diagram follows in text below.]({{site.baseurl}}/img/Access.png){:align="right"}
+![Access Service Diagram - Overview of diagram follows in text below.](/img/Access.png){:align="right"}
 Access Management is the set of practices that enables only
 those permitted the ability to perform an action on a
 particular resource.  The three most common Access Management services you encounter every day perhaps without realizing it are: Policy Administration, Authentication, and Authorization.
@@ -94,7 +94,7 @@ Authorization is how your request for a resource is decided.
 ### Access Management Services
 The Access Management services in the Federal ICAM architecture include Policy Administration, Entitlement Management, Provisioning, Authentication, and Authorization.  
 
-![Access Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/access_services_detailed.png){:align="center"}
+![Access Service Details Diagram - Service definitions follow in text below.](/img/access_services_detailed.png){:align="center"}
 
 **Policy Administration**  
 

@@ -4,7 +4,7 @@ title: Credential Management
 collection: services
 permalink: services/credentials/
 ---
-![Credential Service Diagram - Overview of diagram follows in text below.]({{site.baseurl}}/img/Credential.png){:align="right"}
+![Credential Service Diagram - Overview of diagram follows in text below.](/img/Credential.png){:align="right"}
 Credential Management is the set of practices that an organization uses to issue, track, update, and revoke
 credentials for identities within their context.
 
@@ -56,7 +56,7 @@ than the credential for accessing your health club.
 ### Credential Management Services
 The Credential Management services in the Federal ICAM architecture include Sponsorship, Registration, Issuance, Maintenance, and Revocation.
 
-![Credential Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/credential_services_detailed.png){:align="center"}
+![Credential Service Details Diagram - Service definitions follow in text below.](/img/credential_services_detailed.png){:align="center"}
 
 **Sponsorship**  
 
